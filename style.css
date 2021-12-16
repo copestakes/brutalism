@@ -28,6 +28,11 @@
   .header {
     border-bottom: 1px solid #bababa;
   }
+
+  .wrapper {
+    width: 80%;
+    margin: 0 auto;
+  }
   
   .heading {
     margin: 0 auto;
@@ -314,6 +319,7 @@
     margin: auto;
     margin-top: 125px;
     padding-top: 50px;
+    width: 960px;
   }
   
   .section4 h1 {
